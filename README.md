@@ -1,7 +1,7 @@
 # Amazon Prime Movies and TV Shows Analysis Project
 
 ## Overview
-This project analyzes the Amazon Prime Movies and TV Shows dataset sourced from Kaggle. The dataset was downloaded, extracted using Python and the loaded into MySQL for transformation. The focus was on cleaning, normalizing, and analyzing the data to derive valuable business insights while applying advanced SQL techniques and data modeling principles.
+This project analyzes the Amazon Prime Movies and TV Shows dataset sourced from Kaggle. The dataset was downloaded, extracted using Python and the loaded into MySQL for transformation. The focus was on cleaning, normalizing, and analyzing the data to derive valuable business insights while applying advanced SQL techniques and data modeling principles. 
 
 ## Steps Involved
 1. **Data Acquisition and Loading**:
